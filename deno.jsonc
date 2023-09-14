@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "imports": {
+      "ajv": "npm:ajv@8.12.0"
+  }
+}
